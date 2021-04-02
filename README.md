@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @TessaiMusa
-- 👀 I’m interested in Machine Learning, History and many more
-- 🌱 I’m currently learning PyTorch
+Wait where am I now?
 
 <!---
 - 💞️ I’m looking to collaborate on ...
